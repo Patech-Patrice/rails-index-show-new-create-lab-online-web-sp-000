@@ -1,2 +1,2 @@
-class Coupon < ApplicationRecord
+class Coupon < 
 end
